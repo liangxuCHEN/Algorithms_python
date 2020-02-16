@@ -19,3 +19,5 @@ Data Structures and Algorithms with python example
 请使用**Jupyter-notebook**打开文档
 
 如需下载Jupyter-notebook，请到[!这里](https://www.anaconda.com/)
+
+另外需要Python入门的可以点击[!这里](https://github.com/liangxuCHEN/A2Z_python)
