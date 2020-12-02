@@ -3,7 +3,11 @@ Data Structures and Algorithms with python example
 
 # 数据结构与算法（Python）
 
+![数据结构和算法基础Python语言实现](https://upload-images.jianshu.io/upload_images/1376538-333e1234324d819a.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/800/format/webp)
+
 这是此书对应的例程文档，章节对应文件如表所示。
+
+购买链接：https://item.jd.com/13026026.html
 
 |章节|文件名|
 |-|-|
