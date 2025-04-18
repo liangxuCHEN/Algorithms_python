@@ -28,3 +28,11 @@ Data Structures and Algorithms with python example
 如需下载Jupyter-notebook，请到[!这里](https://www.anaconda.com/)
 
 另外需要Python入门的可以点击[!这里](https://github.com/liangxuCHEN/A2Z_python)
+
+## 更多学习资源
+
+1. 关注公众号 `旭哥聊科技`，回复`Python基础`，即可领取精心整理的全套课程代码。
+
+2. 还有定期的代码优化技巧分享，有专业的代码问题解答服务，为你的编程之路保驾护航~
+
+3. 添加微信号 `Louis_chen_IT`, 回复`cs入群`，一起学习，共同进步~
